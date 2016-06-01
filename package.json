@@ -1,0 +1,23 @@
+{
+  "name": "insert-nums",
+  "version": "1.0.0",
+  "description": "Insert Numbers",
+  "main": "./lib/insert-nums",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Candoris/insert-nums.git"
+  },
+  "activationCommands": {
+    "atom-text-editor": [
+      "insert-nums:insert"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/Candoris/insert-nums/issues"
+  },
+  "license": "MIT"
+}

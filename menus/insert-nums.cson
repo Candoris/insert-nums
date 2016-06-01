@@ -1,0 +1,12 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Insert Nums'
+      'submenu': [
+        { 'label': 'Insert Nums', 'command': 'insert-nums:insert' }
+      ]
+    ]
+  }
+]
