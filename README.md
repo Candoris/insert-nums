@@ -1,3 +1,3 @@
 # insert-nums package
 
-Generates a number and inserts it at the current cursor position.
+Generates a ordered numbers and inserts them at current cursor positions.
